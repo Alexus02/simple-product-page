@@ -12,7 +12,7 @@
         font-size: 1rem;
         font-family: 400;
         background-color: #F9FAFB;
-        color:#394150;
+        color:#000000;
       }
 
       .author-info {
@@ -46,6 +46,8 @@
   }
 header{
   margin-bottom: 40px;
+ font-size: 14px;
+ font-weight:500;
 }
 .first{
   display: flex;
